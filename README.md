@@ -26,3 +26,8 @@ review these and change as needed for your own board.
 UART parameters for the UART0 and UART7 port:
 - Baud rate - 115,200
 - 8-N-1 operation
+
+Note****
+After sending the data user is expected to enter '@' at last.
+
+Thank You!
