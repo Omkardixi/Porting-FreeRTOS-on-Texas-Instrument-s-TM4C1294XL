@@ -2,6 +2,7 @@
 
 Operating System : FreeRTOS
 IDE              : Keil uVision5
+Terminal         : Hercules 3.2.8 
 
 Requirements     : SOFTWARE DEVELOPMENT KITS (SDK) link: (https://www.ti.com/tool/SW-TM4C)  
 
